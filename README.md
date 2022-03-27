@@ -17,7 +17,7 @@
 ![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-red)
 > Hello World!
 
-### Calendar
+### 📆 Calendar
 |Date |Participant|Topic|Place|
 |--|--|--|--|
 |2022-03-28|`GitJaemin`,`HongGilDong`,`JaeminGit`| 깃허브 레포지토리 생성|Online|
